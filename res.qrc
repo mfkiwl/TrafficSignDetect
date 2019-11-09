@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="img">
+    <file>../Traffic/img/qianmo.png</file>
+    <file>../Traffic/img/qianmo2.jpg</file>
+    <file>../Traffic/img/traffic.ico</file>
+  </qresource>
+</RCC>
